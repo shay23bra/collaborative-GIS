@@ -23,8 +23,8 @@ This application enables real-time collaboration on drawing and analyzing areas 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/collaborative-gis-app.git
-   cd collaborative-gis-app
+   git clone https://github.com/shay23bra/collaborative-GIS.git
+   cd collaborative-GIS
 
 ### Running the Application
 1. Start the application:
